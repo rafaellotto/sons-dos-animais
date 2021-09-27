@@ -39,7 +39,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "br.app.dofit.sons_dos_animais"
+        applicationId "br.app.dofit.animals_sounds"
         minSdkVersion 18
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
